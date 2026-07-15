@@ -4,7 +4,7 @@
 > Licensed under the BSD 3-Clause License.  
 > SPDX-License-Identifier: BSD-3-Clause
 
-Mistral workflow definition for the **ne-snapshot** LSO operation. This artifact is deployed to Workflow Manager as part of the NE2 activity bundle.
+Mistral workflow definition for the **ne-snapshot** LSO operation. This artifact is deployed to Workflow Manager as part of the NE Snapshot Rollback activity bundle.
 
 **Full documentation:** See [../README.md](../README.md) for prerequisites, step-by-step instructions, and troubleshooting.
 
