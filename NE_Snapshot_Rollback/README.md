@@ -170,8 +170,6 @@ rollbackConfig:
 
 ---
 
-For detail tutorial, see [NE Snapshot Rollback Artifact Bundle Tutorial](https://network.developer.nokia.com/tutorials/ne-snapshot-rollback/)
-
 ## Conclusion
 
 You now have a working example of an **LSO Operation Manager artifact bundle** that pairs snapshot and rollback operations with Mistral workflows for MD-SROS devices. The pattern—YANG augmentation for operation state, operation profiles for NE family mapping, and workflows calling NSP internal REST APIs—can be extended to other device types or backup stores.
@@ -186,7 +184,6 @@ You now have a working example of an **LSO Operation Manager artifact bundle** t
 
 ## References
 
-- [NE Snapshot Rollback Artifact Bundle Tutorial](https://network.developer.nokia.com/tutorials/ne-snapshot-rollback/)
 - [Nokia Network Developer Portal – NSP](https://network.developer.nokia.com/)
 - [NSP Workflow description](https://documentation.nokia.com/nsp/25-8/Network_Automation/wf_desc.html)
 - LSO Operation Manager and Workflow Manager product documentation on the [Nokia Documentation Portal](https://documentation.nokia.com/nsp/)
